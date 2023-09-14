@@ -1,7 +1,7 @@
 # ESP32_ArtNetNode_v2
 ESP32 based WiFi ArtNet V4 to DMX, RDM and LED Pixels
 
-This is a fork of https://github.com/mtongnz/ESP8266_ArtNetNode_v2
+This is a fork of https://github.com/tinic/ESP32_ArtNetNode
 
 To compile get the latest version of the Arduino environment: https://www.arduino.cc/en/Main/Software
 
